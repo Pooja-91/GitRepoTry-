@@ -1,0 +1,20 @@
+# Following commands are very important to connect remote data to servr.
+
+Use,
+
+1. git remote add origin https://github.com/PoojaKalange/GitRepoTry.git
+
+	This will creates a remote or connection, named "Origin" pointing at the github repository you just created.
+
+2. git push -u origin master
+
+	This will sends your commits in your "master" branch to Github.
+
+
+# Now if we want to make changes and pushing them to Github you will just need to use the following 3 command's.
+
+1. git add name_of_file
+
+2. git commit -m "with your own message"
+
+3. git push origin master
