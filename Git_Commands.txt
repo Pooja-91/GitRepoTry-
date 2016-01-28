@@ -1,0 +1,40 @@
+# Following are 10 essential git commands. and one additional command.
+
+1. git init :
+		This is used to initialize new Repository.
+
+  >git init MyNewRepo.
+
+2. git config :
+		This is used for configure and useful for setting up git for first time.
+
+3. git help :
+		If want to know about any git commands we can use it.
+
+4. git add :
+		It is used to add new files in git attentions.
+
+5. git commit : 
+		It is used to commit your changes to the repository. Including message
+
+>git commit -m
+
+-m =====> message
+
+6. git branch :
+		To crrate your own branches in Repo.master branch is always main to the repository.
+
+7. git merge :
+		When we done working on our own branch  and wants to visible our files and code to all contributors on master branch of Repo. 
+
+8. git  chechkout :
+		It is a navigational command that lets you move to the repository you want to check.
+
+9. git pull and git push :
+		Use to up to date the data on your desktop to Online server Repo of github.
+
+10. git status :
+		To check your Repo status .
+
+11.git clone :
+		To clone existing Repo to the new one.
